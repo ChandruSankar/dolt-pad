@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="assets">
+    <file>dolt-pad-abt-page.jpg</file>
+    <file>about-btn-png.png</file>
+    <file>paste-btn-png.png</file>
+    <file>print-btn-png.png</file>
+    <file>save-btn-png.png</file>
+    <file>app-logo-png.png</file>
+    <file>close-btn-png.png</file>
+    <file>new-btn-png.png</file>
+    <file>top-bar-png.png</file>
+    <file>dolt-pad-logo-png.png</file>
+    <file>bottom-bar-dolt-pad.png</file>
+    <file>pad-bg-960x600.jpg</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>444</width>
+    <height>253</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>444</width>
+    <height>253</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>444</width>
+    <height>253</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>About | Dolt Pad</string>
+  </property>
+  <property name="windowIcon">
+   <iconset theme="DoltPad" resource="qt-resFile-doltPad.qrc">
+    <normaloff>:/assets/app-logo-png.png</normaloff>:/assets/app-logo-png.png</iconset>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-image: url(:/assets/dolt-pad-abt-page.jpg);</string>
+  </property>
+ </widget>
+ <resources>
+  <include location="qt-resFile-doltPad.qrc"/>
+ </resources>
+ <connections/>
+</ui>
