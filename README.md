@@ -12,3 +12,13 @@ Dolt Pad Contains features include
 * Rich-Text Based Clipboard Pasting
 * Printing the file
 * Saving it to a local directory
+
+### Application UI Overview
+
+Main Window
+
+![Main Window](./assets/dolt-pad-screenshot.jpg)
+
+About Screen
+
+![Main Window](./assets/dolt-pad-abt-page.jpg)
