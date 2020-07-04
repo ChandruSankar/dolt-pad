@@ -6,4 +6,8 @@ A Notepad Application Built using QT Framework with Python as its backend. It fe
 
 ## Features
 
-Simple features such as Creating a new file, Pasting Text, Printing are added.
+Dolt Pad Contains features include 
+* Creating New Files
+* Rich-Text Based Clipboard Pasting
+* Printing the file
+* 
