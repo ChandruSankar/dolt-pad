@@ -1,4 +1,4 @@
-# Dolt Pad
+# Dolt Pad - redesigned notepad
 
 ![DoltPad](./assets/app-logo-png.png)
 
